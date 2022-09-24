@@ -7,7 +7,7 @@
 
 
 
-#materia_1["tema_mes_1"] = gets.to_s
+
 
 materia_1 = {}
 materia_2 = {}
