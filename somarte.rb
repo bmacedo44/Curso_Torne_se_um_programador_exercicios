@@ -1,7 +1,6 @@
 #Esse é um sistema desenvolvido para a escola de música SOMARTE.
 #O intuito desse sistema é cadastrar as notas dos alunos e gerar a média dessas notas.
 
-aluno = []
 continuar = 0
 media = 0
 
@@ -15,7 +14,6 @@ cad_aluno["nota_percussao: "] = 0
 cad_aluno["nota_sopro: "] = 0
 cad_aluno["nota_piano: "] = 0
 
-aluno << cad_aluno
 
 puts "=============================================================================="
 puts "|                                                                            |"
